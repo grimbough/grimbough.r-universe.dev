@@ -1,0 +1,14 @@
+[
+    {
+        "package": "rhdf5",
+        "url": "https://github.com/grimbough/rhdf5"
+    },
+    {
+        "package": "Rhdf5lib",
+        "url": "https://github.com/grimbough/Rhdf5lib"
+    },
+    {
+        "package": "rhdf5filters",
+        "url": "https://github.com/grimbough/rhdf5filters"
+    }
+]
