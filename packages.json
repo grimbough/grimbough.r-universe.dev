@@ -10,5 +10,13 @@
     {
         "package": "rhdf5filters",
         "url": "https://github.com/grimbough/rhdf5filters"
+    },
+    {
+        "package": "biomaRt",
+        "url": "https://github.com/grimbough/biomaRt"
+    },
+    {
+        "package": "FITfileR",
+        "url": "https://github.com/grimbough/FITfileR"
     }
 ]
