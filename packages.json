@@ -34,6 +34,5 @@
     {
         "package": "BeadDataPackR",
         "url": "https://github.com/grimbough/BeadDataPackR"
-    },
-    arrayQualityMetrics
+    }
 ]
