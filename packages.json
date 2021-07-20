@@ -18,5 +18,22 @@
     {
         "package": "FITfileR",
         "url": "https://github.com/grimbough/FITfileR"
-    }
+    },
+    {
+        "package": "msmbstyle",
+        "url": "https://github.com/grimbough/msmbstyle"
+    },
+    {
+        "package": "IONiseR",
+        "url": "https://github.com/grimbough/IONiseR"
+    },
+    {
+        "package": "arrayQualityMetrics",
+        "url": "https://github.com/grimbough/arrayQualityMetrics"
+    },
+    {
+        "package": "BeadDataPackR",
+        "url": "https://github.com/grimbough/BeadDataPackR"
+    },
+    arrayQualityMetrics
 ]
