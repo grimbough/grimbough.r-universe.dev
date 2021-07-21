@@ -34,7 +34,7 @@
     {
         "package": "BeadDataPackR",
         "url": "https://github.com/grimbough/BeadDataPackR"
-    }
+    },
     {
         "package": "beadarray",
         "url": "https://git.bioconductor.org/packages/beadarray"
