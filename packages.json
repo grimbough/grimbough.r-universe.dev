@@ -32,6 +32,10 @@
         "url": "https://github.com/grimbough/arrayQualityMetrics"
     },
     {
+        "package": "Rarr",
+        "url": "https://github.com/grimbough/Rarr"
+    },
+    {
         "package": "BeadDataPackR",
         "url": "https://github.com/grimbough/BeadDataPackR"
     },
